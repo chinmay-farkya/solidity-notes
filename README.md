@@ -1,5 +1,4 @@
 # Solidity Notes
-# Solidity Notes
 
 This is a collection of the interesting details of Solidity which need to be remembered. This corpus has been accumulated by me during my study of Solidity over the past few months. I have named it Solidity 451.
 Some syntax highlighting ⇒
